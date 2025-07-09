@@ -1,7 +1,7 @@
 # BasicWebPage
 Basic Webpage Design Using HTML and CSS
 https://github.com/Aishwarya-SR123/BasicWebPage
-https://roadmap.sh/projects/basic-html-website
+
 
 
 This is a basic frontend developer portfolio built using only HTML and CSS. It demonstrates a well-structured layout without advanced styling or frameworks.
